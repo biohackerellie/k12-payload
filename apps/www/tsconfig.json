@@ -1,5 +1,7 @@
 {
+	"extends": "@local/tsconfig/base.json",
   "compilerOptions": {
+
     "baseUrl": ".",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
