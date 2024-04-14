@@ -27,7 +27,7 @@
     "payload": "beta",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sharp": "0.32.6"
+    "sharp": "0.33.3"
   },
   "devDependencies": {
 		"@local/prettier-config": "workspace:*",
