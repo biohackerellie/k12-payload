@@ -25,16 +25,16 @@
     "cross-env": "^7.0.3",
     "next": "14.2.1",
     "payload": "beta",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "sharp": "0.33.3"
   },
   "devDependencies": {
 		"@local/prettier-config": "workspace:*",
     "@local/tsconfig": "workspace:*",
     "@types/node": "^20.12.7",
-    "@types/react": "^18.2.78",
-    "@types/react-dom": "^18.2.25",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
     "dotenv": "^16.4.5",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5"
